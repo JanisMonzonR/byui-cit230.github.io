@@ -1,0 +1,1 @@
+/* It will be a future javascript document */
